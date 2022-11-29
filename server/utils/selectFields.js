@@ -1,0 +1,1 @@
+export const songsFields = 'title artist parts.part parts.progressions uploader';
